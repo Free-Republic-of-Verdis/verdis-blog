@@ -3,7 +3,7 @@ title: Verdis Communications
 description: Building the future of humanity
 author: Garv Shah
 markdown: kramdown
-baseurl: "/blog"
+baseurl: "/verdis-blog"
 url: "https://free-republic-of-verdis.github.io"
 github: [metadata]
 
@@ -12,7 +12,7 @@ social-network-links:
   github: Free-Republic-of-Verdis
 
 navbar-links:
-  Home: "https://free-republic-of-verdis.github.io/blog"
+  Home: "https://free-republic-of-verdis.github.io/verdis-blog"
   Website: "https://free-republic-of-verdis.github.io"
 
 collections:

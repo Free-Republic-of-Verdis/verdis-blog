@@ -1,7 +1,7 @@
-# The NOVA System Blog
-The Main Site: https://the-nova-system.github.io <br><br>
-The NOVA System is an alternative cryptocurrency system based on proof of human work verification systems.
-This blog serves as a place to record our progress and document the process.
+# Verdis Blog
+The Main Site: https://www.verdisgov.org <br><br>
+Verdis, officially the Free Republic of Verdis is a sovereign state located between Croatia and Serbia along the Danube river.
+This blog serves as a place for official government communications.
 
 # How to Create Posts:
 It's pretty simple, you just create a Markdown file with the format YYYY-MM-DD-Title.md in the _posts folder.
@@ -76,17 +76,3 @@ sudo bundle install
 ```
 
 If all went well, it should have installed all the gem dependencies, and you should be good to go. Just run ```bundle exec jekyll serve``` and it should start hosting the site at http://127.0.0.1:4000/. Yay!
-
-### PWA
-~~The main site is a PWA but making this Jekyll site its own independant PWA is kinda being a pain, so installing the app from the main site leads to almost the same functionality~~
-The PWA ideas have been scrapped, since we now have an app instead, so who needs a PWA!
-There's a section in the app which just fetches the feed.xml referenced above.<br>
-Also, this system was initially put to use in the old website, which can be accessed [here](http://the-nova-system.github.io/old/), when the project had a completely different idea :P
-
-# Progress Board (now abandoned):
-https://github.com/orgs/The-NOVA-System/projects/1
-
-# The Team:
-- Garv Shah
-- Liam Shaw
-- Natsuki Rogers
