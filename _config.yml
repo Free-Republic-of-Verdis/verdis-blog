@@ -1,0 +1,30 @@
+theme: jekyll-theme-cayman
+title: Verdis Communications
+description: Building the future of humanity
+author: Garv Shah
+markdown: kramdown
+baseurl: "/blog"
+url: "https://free-republic-of-verdis.github.io"
+github: [metadata]
+
+social-network-links:
+  email: "gshah.6110@gmail.com"
+  github: Free-Republic-of-Verdis
+
+navbar-links:
+  Home: "https://free-republic-of-verdis.github.io/blog"
+  Website: "https://free-republic-of-verdis.github.io"
+
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title
+
+plugins:
+  - jekyll-feed
+
+kramdown:
+  math_engine: katex
+feed:
+  posts_limit: 50
+  excerpt_only: true
