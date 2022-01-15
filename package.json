@@ -1,5 +1,5 @@
 {
-  "name": "nova-blog",
+  "name": "verdis-blog",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
